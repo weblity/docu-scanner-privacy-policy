@@ -112,7 +112,7 @@ Document Scanner is subject to continuous development and we reserve the right, 
 
 
 Modification and Termination of Services
-We have a policy of constantly improving our services, and for that, we can modify or terminate any of our services anytime. We may change any function, feature, or can terminate our services altogether. This may cause the deletion of user data. Any loss or compromisation of data will not be liable to Lufick, users are advised to keep their sensitive information outside of the app. We do not promise anything about our services.
+We have a policy of constantly improving our services, and for that, we can modify or terminate any of our services anytime. We may change any function, feature, or can terminate our services altogether. This may cause the deletion of user data. Any loss or compromisation of data will not be liable to Weblity, users are advised to keep their sensitive information outside of the app. We do not promise anything about our services.
 
 
 
