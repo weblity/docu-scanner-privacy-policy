@@ -122,4 +122,4 @@ We may modify these terms or add any additional terms that apply to a service or
 
 
 Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at weblityapps@gmail.com .
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at weblityapp@gmail.com .
